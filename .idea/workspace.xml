@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="452271ec-aae8-4205-953d-6393932f0861" name="Changes" comment="" />
+    <list default="true" id="452271ec-aae8-4205-953d-6393932f0861" name="Changes" comment="uhh idk" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,12 +138,25 @@
       <workItem from="1762875253824" duration="1914000" />
       <workItem from="1762891458900" duration="54000" />
       <workItem from="1762891526245" duration="977000" />
-      <workItem from="1762900335612" duration="2130000" />
+      <workItem from="1762900335612" duration="2523000" />
     </task>
+    <task id="LOCAL-00001" summary="uhh idk">
+      <option name="closed" value="true" />
+      <created>1762902772902</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1762902772902</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="uhh idk" />
+    <option name="LAST_COMMIT_MESSAGE" value="uhh idk" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wizlight_thing$red.coverage" NAME="red Coverage Results" MODIFIED="1762472804902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
