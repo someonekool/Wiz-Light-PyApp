@@ -162,7 +162,7 @@
       <workItem from="1762875253824" duration="1914000" />
       <workItem from="1762891458900" duration="54000" />
       <workItem from="1762891526245" duration="977000" />
-      <workItem from="1762900335612" duration="4332000" />
+      <workItem from="1762900335612" duration="4760000" />
     </task>
     <task id="LOCAL-00001" summary="uhh idk">
       <option name="closed" value="true" />
@@ -252,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762904671259</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Updated .gitignore and added placeholders so I can show empty dir">
+      <option name="closed" value="true" />
+      <created>1762905082313</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1762905082313</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
