@@ -18,9 +18,20 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../Wiz-light-change" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Wiz-light-change" />
     <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "someonekool"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/someonekool/Wiz-Light-PyApp.git",
@@ -114,6 +125,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Python.commands" />
+        <item itemvalue="Python.commands" />
+        <item itemvalue="Python.commands" />
+        <item itemvalue="Python.commands" />
       </list>
     </recent_temporary>
   </component>
@@ -145,7 +159,7 @@
       <workItem from="1762875253824" duration="1914000" />
       <workItem from="1762891458900" duration="54000" />
       <workItem from="1762891526245" duration="977000" />
-      <workItem from="1762900335612" duration="2994000" />
+      <workItem from="1762900335612" duration="3373000" />
     </task>
     <task id="LOCAL-00001" summary="uhh idk">
       <option name="closed" value="true" />
@@ -163,11 +177,50 @@
       <option name="project" value="LOCAL" />
       <updated>1762902963686</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Hello there ig">
+      <option name="closed" value="true" />
+      <created>1762903416111</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1762903416111</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Hello there ig">
+      <option name="closed" value="true" />
+      <created>1762903456087</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1762903456087</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="wiz-light-PyApp/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uhh idk" />
