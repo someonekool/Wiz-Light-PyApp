@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="452271ec-aae8-4205-953d-6393932f0861" name="Changes" comment="Hello there ig">
-      <change beforePath="$PROJECT_DIR$/../Wiz-light-change/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../Wiz-light-change/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="452271ec-aae8-4205-953d-6393932f0861" name="Changes" comment="Updated .gitignore and added placeholders so I can show empty dir" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,6 +51,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Lua Application.nigger.lua.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.asyncmd.executor": "Run",
@@ -68,7 +67,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/andre/Desktop/Wiz-light-change",
+    "last_opened_file_path": "C:/Users/andre/Desktop/Wiz-light-change/logs",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,6 +80,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\andre\Desktop\Wiz-light-change\logs" />
       <recent name="C:\Users\andre\Desktop\Wiz-light-change" />
       <recent name="C:\Users\andre\Desktop\wizlight thing\Images" />
     </key>
@@ -162,7 +162,7 @@
       <workItem from="1762875253824" duration="1914000" />
       <workItem from="1762891458900" duration="54000" />
       <workItem from="1762891526245" duration="977000" />
-      <workItem from="1762900335612" duration="4002000" />
+      <workItem from="1762900335612" duration="4332000" />
     </task>
     <task id="LOCAL-00001" summary="uhh idk">
       <option name="closed" value="true" />
@@ -220,7 +220,39 @@
       <option name="project" value="LOCAL" />
       <updated>1762904090349</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Updated .gitignore">
+      <option name="closed" value="true" />
+      <created>1762904370178</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1762904370178</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Updated .gitignore">
+      <option name="closed" value="true" />
+      <created>1762904427637</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1762904427637</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Updated .gitignore">
+      <option name="closed" value="true" />
+      <created>1762904446131</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1762904446131</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated .gitignore and added placeholders so I can show empty dir">
+      <option name="closed" value="true" />
+      <created>1762904671259</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1762904671259</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,7 +284,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uhh idk" />
     <MESSAGE value="Hello there ig" />
-    <option name="LAST_COMMIT_MESSAGE" value="Hello there ig" />
+    <MESSAGE value="Updated .gitignore" />
+    <MESSAGE value="Updated .gitignore and added placeholders so I can show empty dir" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated .gitignore and added placeholders so I can show empty dir" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wizlight_thing$red.coverage" NAME="red Coverage Results" MODIFIED="1762472804902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
