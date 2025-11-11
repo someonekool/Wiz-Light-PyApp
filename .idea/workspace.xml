@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="452271ec-aae8-4205-953d-6393932f0861" name="Changes" comment="uhh idk" />
+    <list default="true" id="452271ec-aae8-4205-953d-6393932f0861" name="Changes" comment="Hello there ig" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,8 +18,15 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Wiz-light-change" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/someonekool/Wiz-Light-PyApp.git",
+    "accountId": "ade77b46-9e55-4b8a-8c53-0d53a7fa29da"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -138,7 +145,7 @@
       <workItem from="1762875253824" duration="1914000" />
       <workItem from="1762891458900" duration="54000" />
       <workItem from="1762891526245" duration="977000" />
-      <workItem from="1762900335612" duration="2523000" />
+      <workItem from="1762900335612" duration="2994000" />
     </task>
     <task id="LOCAL-00001" summary="uhh idk">
       <option name="closed" value="true" />
@@ -148,7 +155,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762902772902</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Hello there ig">
+      <option name="closed" value="true" />
+      <created>1762902963686</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1762902963686</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -156,7 +171,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="uhh idk" />
-    <option name="LAST_COMMIT_MESSAGE" value="uhh idk" />
+    <MESSAGE value="Hello there ig" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hello there ig" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wizlight_thing$red.coverage" NAME="red Coverage Results" MODIFIED="1762472804902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
