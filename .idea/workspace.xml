@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="452271ec-aae8-4205-953d-6393932f0861" name="Changes" comment="Hello there ig" />
+    <list default="true" id="452271ec-aae8-4205-953d-6393932f0861" name="Changes" comment="Hello there ig">
+      <change afterPath="$PROJECT_DIR$/../Wiz-light-change/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +22,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../Wiz-light-change" value="master" />
+        <entry key="$PROJECT_DIR$/../Wiz-light-change" value="stuff" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Wiz-light-change" />
@@ -66,7 +68,7 @@
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
     "git-widget-placeholder": "master",
     "junie.onboarding.icon.badge.shown": "true",
-    "last_opened_file_path": "C:/Users/andre/Desktop/wizlight thing/Images",
+    "last_opened_file_path": "C:/Users/andre/Desktop/Wiz-light-change",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -159,7 +161,7 @@
       <workItem from="1762875253824" duration="1914000" />
       <workItem from="1762891458900" duration="54000" />
       <workItem from="1762891526245" duration="977000" />
-      <workItem from="1762900335612" duration="3373000" />
+      <workItem from="1762900335612" duration="3677000" />
     </task>
     <task id="LOCAL-00001" summary="uhh idk">
       <option name="closed" value="true" />
@@ -193,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762903456087</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Hello there ig">
+      <option name="closed" value="true" />
+      <created>1762903999470</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1762903999470</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
