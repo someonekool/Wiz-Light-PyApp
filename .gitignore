@@ -1,0 +1,17 @@
+# created by virtualenv automatically
+# ignore the virtual environment directory
+venv/
+.venv/
+# ignore log files and other non-essential files
+*.log
+*.png
+*.txt
+__pycache__/
+*.pyc
+
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.xml
+!placeholder.txt
