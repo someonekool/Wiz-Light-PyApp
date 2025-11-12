@@ -6,8 +6,18 @@ import winreg as wr
 import ipaddress
 import asyncio
 import netifaces
+import os
 faces = netifaces.interfaces()
 import logging
+if not os.path.exists('commands/command_logs'):
+    os.makedirs('command_logs', exist_ok=True)
+    print('Created command_logs folder')
+else:
+    pass
+
+with open('commands/command_logs/connection.log', 'w') as f:
+    print('Created connection.log file')
+    pass
 
 action_logger = logging.getLogger(__name__)
 fh = logging.FileHandler('commands/command_logs/connection.log', encoding='utf-8')

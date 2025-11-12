@@ -5,6 +5,21 @@ import datetime
 import logging
 import asyncio
 from commands import cmds as cmds
+import os
+
+if not os.path.exists('logs'):
+    os.makedirs('logs', exist_ok=True)
+    print('Created logs folder')
+
+else:
+    pass
+
+if not os.path.isfile('logs/actions.log'):
+    with open('logs/actions.log', 'w') as f:
+        print('Created actions.log file')
+else:
+    pass
+
 
 
 logger = logging.getLogger(__name__)
