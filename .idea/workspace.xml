@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="452271ec-aae8-4205-953d-6393932f0861" name="Changes" comment="Updated .gitignore and added placeholders so I can show empty dir">
+    <list default="true" id="452271ec-aae8-4205-953d-6393932f0861" name="Changes" comment="something happened idek">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commands/cmds.py" beforeDir="false" afterPath="$PROJECT_DIR$/commands/cmds.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,7 +97,7 @@
       <recent name="C:\Users\andre\Desktop\wizlight thing\commands" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager">
     <configuration name="commands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Wiz-Light-Change" />
       <option name="ENV_FILES" value="" />
@@ -195,7 +198,7 @@
       <workItem from="1762905959604" duration="308000" />
       <workItem from="1762906272950" duration="213000" />
       <workItem from="1762906491529" duration="179000" />
-      <workItem from="1762906676267" duration="615000" />
+      <workItem from="1762906676267" duration="1345000" />
     </task>
     <task id="LOCAL-00001" summary="uhh idk">
       <option name="closed" value="true" />
@@ -317,7 +320,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762906746655</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="something happened idek">
+      <option name="closed" value="true" />
+      <created>1762907416268</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1762907416268</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -355,15 +366,16 @@
     <MESSAGE value="Hello there ig" />
     <MESSAGE value="Updated .gitignore" />
     <MESSAGE value="Updated .gitignore and added placeholders so I can show empty dir" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated .gitignore and added placeholders so I can show empty dir" />
+    <MESSAGE value="something happened idek" />
+    <option name="LAST_COMMIT_MESSAGE" value="something happened idek" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/wizlight_thing$red.coverage" NAME="red Coverage Results" MODIFIED="1762472804902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wizlight_thing$send_log.coverage" NAME="send_log Coverage Results" MODIFIED="1762801696576" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Wiz-light-change/logs" />
     <SUITE FILE_PATH="coverage/wizlight_thing$s.coverage" NAME="s Coverage Results" MODIFIED="1762874385180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Wiz-light-change/commands/command_logs" />
-    <SUITE FILE_PATH="coverage/wizlight_thing$main.coverage" NAME="main Coverage Results" MODIFIED="1762900456601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Wiz-light-change" />
+    <SUITE FILE_PATH="coverage/wizlight_thing$main.coverage" NAME="main Coverage Results" MODIFIED="1762907877241" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/wizlight_thing$commands.coverage" NAME="commands Coverage Results" MODIFIED="1762891654996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/wizlight_thing$cmds.coverage" NAME="cmds Coverage Results" MODIFIED="1762802170147" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Wiz-light-change/commands" />
+    <SUITE FILE_PATH="coverage/wizlight_thing$cmds.coverage" NAME="cmds Coverage Results" MODIFIED="1762907680541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/commands" />
     <SUITE FILE_PATH="coverage/wizlight_thing$asyncmd.coverage" NAME="asyncmd Coverage Results" MODIFIED="1762799670183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Wiz-light-change/commands" />
   </component>
 </project>
