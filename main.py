@@ -174,7 +174,6 @@ class ColorPicker(tk.Toplevel):
         super().__init__()
         self.title('Color Picker')
         self.geometry('500x500')
-        self.configure(bg='lightgray')
         lab = self.label = tk.Label(self, text='Color Picker', font=('Arial', 24))
         lab.config(width=20)
         lab.pack()
